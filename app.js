@@ -34,3 +34,5 @@ console.log(obj1);
 console.log(obj2);
 console.log(obj3);
 console.log(array_user);
+console.log(typeof(idat));
+console.log(typeof(x));
