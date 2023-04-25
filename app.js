@@ -2,7 +2,7 @@
 
 let name="herol kleiber";
 let lastname="huamani noñonca";
-let country="Peru"
+let country="Peru";
 
 let age=26;
 let phonenumber=992911553;
@@ -11,15 +11,15 @@ let homephone=21321312321;
 let obj1={
     name : "key",
     amount: 1
-}
+};
 let obj2={
     name : "phone",
     amount: 5
-}
+};
 let obj3={
     name: "headphones",
     amount: 10
-}
+};
 
 let array_user=[["fabio"      ,  12344   ],
                 ["alejhandro" ,  12321312],
